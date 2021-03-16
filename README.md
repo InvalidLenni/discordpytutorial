@@ -1,2 +1,3 @@
 # discordpybot
-A Discord Python Bot Template
+Discord Python Bot Tutorials von GamerRoom YouTube. 
+Discord: discord.gg/yCfbRGW
